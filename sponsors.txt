@@ -1,20 +1,97 @@
-start-up
-1. code-brew labs sec 29D 7087840887
-2. ppc champ 54-55 sec 34  
-3. mink-chatter 
-4. anoop zone 
-5. sheetal sir
-6. wizIQ
-7. App Hunge
-8. Smarter Codes
-9. trideal
-10. addval labs
-11. edurev
-12. comparometer
-13. chandigarh metero
-14. zenon dg labs
-15. inverted i
-16. 
+START-UPS
+
+  1.  Name:         Code-Brew Labs
+      Address:      Sector 29-D 7087840887
+      Pitch Point:  
+      Interested:   
+      Progress:     
+      
+      
+  2.  Name:         PPC Champ
+      Adress:       SCO 54-55 Sector 34, 095014 88575
+      Pitch Point:  
+      Interested:   
+      Progress:     
+      
+  3.  Name:         Mink-Chatter
+      Address:      Meshink Hub Parbhat Road, Near Godown Area, Zirakpur, Punjab 140603, 098726 55566
+      Pitch Point:  
+      Interested:   
+      Progress:     
+      
+  4.  Name:         Anoop Zone
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:      
+
+  5.  Name:         WizIQ
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+  6.  Name:         App Hunge
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+  7.  Name:         Smarter Codes
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+      
+  8.  Name:         TriDeal
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+
+  9.  Name:         Addval Labs
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+
+ 10.  Name:         Edurev
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+
+ 11.  Name:         Comparometer
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+
+ 12.  Name:         Chandigarh Metro
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+
+ 13.  Name:         ZenonDG Labs
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+
+ 14.  Name:         Inverted i
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+ 
 
 
 
@@ -26,17 +103,65 @@ start-up
 
 
 
-sec 34, 35, 20 gedhi
-institutes
-1. edu gaps sec 36D sco 210
-2. OOPS sec 34 
-3. Infowiz sec 34
-4. SNM sec 37  
-5. chanakya sec 8C sc0 45-48
-6. saksham institute
-7. rising careers dr. ruchi
-8. udemy
-9. internshala
+
+INSTITUTES
+
+
+  1.  Name:         EduGaps
+      Address:      SCO 210, Sector 36-D
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+
+  2.  Name:         OOPS
+      Address:      Sector 34
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+
+  3.  Name:         Infowiz
+      Address:      Sector 34
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+  4.  Name:         SNM
+      Address:      Sector 37
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+  5.  Name:         Chanakya
+      Address:      SCO 45-48, Sector 8-C
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+  6.  Name:         Saksham's Institute
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+  7.  Name:         Rising Careers (they are my known, leave it to me)
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+  8.  Name:         Udemy
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+  9.  Name:         InternShala
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:   
 
 
 
@@ -45,12 +170,28 @@ institutes
 
 
 
-shops
 
-1. jetage computer traders 
-2. book shops in sec 17
-3. computer shops in sec 20
-4. global system sec 22
+
+SHOPS
+
+
+  8.  Name:         JetAge Computer Traders
+      Address:      
+      Pitch Point:  
+      Interested:   
+      Progress:     
+
+  8.  Name:         Global System (They are my known, leave it to me)
+      Address:      Sector 22
+      Pitch Point:  
+      Interested:   
+      Progress:   
+
+  Book shops in sec 17
+
+
+  Computer shops in sec 20
+
 
 
 
