@@ -193,7 +193,7 @@ SHOPS
   Computer shops in sec 20
 
 
-  5.  Name:         Paramount  
+  5.  Name:         Paramount (leave it to Shivam)
       Address:      Sector 22
       Pitch Point:  
       Interested:   
