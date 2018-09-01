@@ -195,7 +195,7 @@ SHOPS
 
   5.  Name:         Paramount (leave it to Shivam)
       Address:      Sector 22
-      Pitch Point:  
+      Pitch Point:  3k-5k
       Interested:   
       Progress: 
 
