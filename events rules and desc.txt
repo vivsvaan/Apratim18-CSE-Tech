@@ -1,7 +1,25 @@
+HACKATHON
+Description: Rack your brains hard as we bring you "Chaos" an open online theme based Hackathon. It's a shout-out to all the tech enthusiasts in every field, be it app development or full stack web, software development or a game developer. Prizes and rewards worth Rupees 1 lakh
+
+Rules:
+1. Since Hackathon will be a team event, you can have minimum 3 and at most 4 members in your team.
+2. You can either invite your friends to form a team or you can request other teams to add you as a member.
+3. The hackathon will commence from Oct 11, 2018, 12:00 AM
+4. Submit your project before or on the last day i.e. October 13, 2018, 11:59 PM of the contest for it to be considered.
+5. It's an online hackathon, you can participate from anywhere.
+6. There are 4 themes of the hackathon.
+7. Once the hackathon starts, you will get an option to submit your hack. If you send more than one entry, only the last entry will be considered
+8. You'll be judged on the basis of your innovation and any attempt of copying would result in disqualification.
+9. You may use oopen souce libraries and other freely available systems/services such as Google Maps, Facebook Connect, Twitter Feeds etc.
+
+For further enquiry contact:
+Vivsvaan: 9592972225
+Ashlin: 8556950259
+
 TECH HUNT
 Description: Do you like treasure hunts? Here is a new twist to the all-time favourite game. Use your technical skills and knowledge to solve the clues and move ahead. But that’s not all. There’s more to this!
 
-basic knowledge of prog languages
+Prerequisite: basic knowledge of prog languages
 
 Rules:
 1. Each goup should consist of 2 members at max
@@ -13,7 +31,7 @@ Rules:
 7. Violation of the rules can result in disqualification of the team
 8. In case of any dispute the decision of judges will be final.
 
-Contact:
+For further enquiry contact:
 Akhil: 8556908693
 Shivam: 9878018564
 
@@ -31,7 +49,7 @@ Rules:
 7. You'll be judged on your innovation and creativity. Also it should be strictly relevant with the theme
 8. In case of any dispute the decision of judges will be final.
 
-Contact:
+For further enquiry contact:
 Sidak: 9876588999
 Charanjit: 9814736348
 
@@ -40,7 +58,7 @@ DAZZLE CODING
 Description: To all the budding coders out there, we bring you a fun and crispy coding event 
 "Dazzle Coding" with a lot's of surprises, so hone up your coding skills and be ready to Adapt to Change
 
-Coding Ability in atleast one of - C, C++, Java, Python.
+Prerequisite: Coding Ability in atleast one of - C, C++, Java, Python.
 
 Rules
 1. It is an event of 2 members
@@ -49,7 +67,7 @@ Rules
 4. It is preferred that you bring your own laptops.
 5. In case of any dispute the decision of judges would be final.
 
-Contact:
+For further enquiry contact:
 Abhinav: 9888651900
 Gaurav: 9417725843
 
@@ -67,5 +85,5 @@ Rules:
 6. UI designs will be judged on their appearance, creativity and the practicality. Also it should be strictly relevant with the theme.
 7. In case of any dispute the decision of judges will be final.
 
-Contact:
+For further enquiry contact:
 Daksh: 9872664157
