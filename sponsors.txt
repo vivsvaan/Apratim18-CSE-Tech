@@ -175,13 +175,13 @@ INSTITUTES
 SHOPS
 
 
-  8.  Name:         JetAge Computer Traders
+  1.  Name:         JetAge Computer Traders
       Address:      
       Pitch Point:  
       Interested:   
       Progress:     
 
-  8.  Name:         Global System (They are my known, leave it to me)
+  2.  Name:         Global System (They are my known, leave it to me)
       Address:      Sector 22
       Pitch Point:  
       Interested:   
