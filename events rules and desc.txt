@@ -1,0 +1,71 @@
+TECH HUNT
+Description: Do you like treasure hunts? Here is a new twist to the all-time favourite game. Use your technical skills and knowledge to solve the clues and move ahead. But that’s not all. There’s more to this!
+
+basic knowledge of prog languages
+
+Rules:
+1. Each goup should consist of 2 members at max
+2. If participants are outnumbered, 1 or 2 qualifier rounds will be held to start the treasure hunt. 
+3. Time limit is 60 minutes.
+4. If any of the 2 members is missing, the rest should not ask for the replacement
+5. All team members must stay together. Clues should not be discussed between two different teams.
+6. Do not tamper with, destroy or alter the answers at the clue locations.
+7. Violation of the rules can result in disqualification of the team
+8. In case of any dispute the decision of judges will be final.
+
+Contact:
+Akhil: 8556908693
+Shivam: 9878018564
+
+
+WEB DESIGN
+Description: (same as already there)
+
+Rules:
+1. the web designing will be a team based event so you can have maximum 2 members in your team
+2. It'll be a 3 hours event, with 2 hours dedicated coding time.
+3. Use of photoshop or any other designing software is allowed, only for UI design.
+4. Use of wordpress and other CMS are not allowed
+5. Use of Bootstrap framework and Jquery Library are allowed.
+6. Internet usage is not allowed, all required resources will be provided beforehand.
+7. You'll be judged on your innovation and creativity. Also it should be strictly relevant with the theme
+8. In case of any dispute the decision of judges will be final.
+
+Contact:
+Sidak: 9876588999
+Charanjit: 9814736348
+
+
+DAZZLE CODING
+Description: To all the budding coders out there, we bring you a fun and crispy coding event 
+"Dazzle Coding" with a lot's of surprises, so hone up your coding skills and be ready to Adapt to Change
+
+Coding Ability in atleast one of - C, C++, Java, Python.
+
+Rules
+1. It is an event of 2 members
+2. It will be a 2 hours event
+3. there will be surprise challenges for everyone.
+4. It is preferred that you bring your own laptops.
+5. In case of any dispute the decision of judges would be final.
+
+Contact:
+Abhinav: 9888651900
+Gaurav: 9417725843
+
+
+
+VIVIFY
+Description: Ever looked at a mobile app and thought "I could make this look better" ? Now is your chance! Come let out your creativity on a virtual art-board and design the most beautiful app with a UI and UX that is as good-looking as it is practical.
+
+Rules:
+1. Vivify is an individual event with everyone for themselves.
+2. A 2 hours event focussed on Mobile-app UI design.
+3. Use of photoshop or any other designing software is allowed.
+4. Softwares to be provided: Adobe XD, Adobe Photoshop and related resources.
+5. Internet usage is not allowed, all required resources will be provided beforehand.
+6. UI designs will be judged on their appearance, creativity and the practicality. Also it should be strictly relevant with the theme.
+7. In case of any dispute the decision of judges will be final.
+
+Contact:
+Daksh: 9872664157
