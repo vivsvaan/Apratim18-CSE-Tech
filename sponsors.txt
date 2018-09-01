@@ -47,8 +47,7 @@ START-UPS
       Address:      
       Pitch Point:  
       Interested:   
-      Progress:   
-
+      Progress:  
 
   9.  Name:         Addval Labs
       Address:      
@@ -56,13 +55,11 @@ START-UPS
       Interested:   
       Progress:   
 
-
  10.  Name:         Edurev
       Address:      
       Pitch Point:  
       Interested:   
       Progress:   
-
 
  11.  Name:         Comparometer
       Address:      
@@ -70,13 +67,11 @@ START-UPS
       Interested:   
       Progress:   
 
-
  12.  Name:         Chandigarh Metro
       Address:      
       Pitch Point:  
       Interested:   
       Progress:   
-
 
  13.  Name:         ZenonDG Labs
       Address:      
@@ -84,20 +79,52 @@ START-UPS
       Interested:   
       Progress:   
 
-
  14.  Name:         Inverted i
       Address:      
       Pitch Point:  
       Interested:   
-      Progress:   
-
+      Progress:
+      
+ 15.  Name:         TCIL-IT
+      Address:      3017-18, Dakshin Marg, Opposite Kisan Bhawan, Sector 22-D, Chandigarh, 09876795015
+      Pitch Point:  
+      Interested:   
+      Progress:
  
+ 16.  Name:         Webliquids WebsiteDirections
+      Address:      SCO 115, Sector 34 A, Chandigarh, 07347405486
+      Pitch Point:  
+      Interested:   
+      Progress:
+ 
+ 17.  Name:         Webtech Learning
+      Address:      SCO 54-55, 3rd Floor, Sector 34-A, Chandigarh, 09878375376
+      Pitch Point:  
+      Interested:   
+      Progress:
+      
+ 18.  Name:         ThinkNEXT Technologies Private Limited
+      Address:      S.C.F 113, Sector 65, Phase 11, SAS Nagar, 07837401000
+      Pitch Point:  
+      Interested:   
+      Progress:
+      
+ 19.  Name:         EME Technologies
+      Address:      C-134, PUNCOM TECHNOLOGY PARK, PCL CHOWK, Phase 8, Industrial Area, SAS Nagar, 09569806826
+      Pitch Point:  
+      Interested:   
+      Progress:
+
+ 20.  Name:         Netmax
+      Address:      3rd floor, SCO 198, Sector 34 A, Chandigarh, 01724346047
+      Pitch Point:  
+      Interested:   
+      Progress:
 
 
 
-
-
-
+      
+      
 
 
 
@@ -163,6 +190,31 @@ INSTITUTES
       Interested:   
       Progress:   
 
+ 10.  Name:         PHP training
+      Address:      Sector 17 Bus Stand Rd, 01725070133
+      Pitch Point:  
+      Interested:   
+      Progress:
+            
+ 11.  Name:         Industrial Traning
+      Address:      Falconor Software Solutions, SCO 112-113, FF, Sector 34A, 09888788571
+      Pitch Point:  
+      Interested:   
+      Progress:
+      
+ 12.  Name:         Webx Technology
+      Address:      SCO 126-127, Sector 34A, Behind Piccadilly Square, 01724621001
+      Pitch Point:  
+      Interested:   
+      Progress:
+      
+ 13.  Name:         Industrial Traning
+      Address:      Guru Nanak Fruit Company, Shop No 5, Sector 26 East, ‪01724645099‬
+      Pitch Point:  
+      Interested:   
+      Progress:
+      
+      
 
 
 
