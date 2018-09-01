@@ -1,3 +1,4 @@
+
 HACKATHON
 Description: Rack your brains hard as we bring you "Chaos" an open online theme based Hackathon. It's a shout-out to all the tech enthusiasts in every field, be it app development or full stack web, software development or a game developer. Prizes and rewards worth Rupees 1 lakh
 
@@ -15,6 +16,8 @@ Rules:
 For further enquiry contact:
 Vivsvaan: 9592972225
 Ashlin: 8556950259
+
+
 
 TECH HUNT
 Description: Do you like treasure hunts? Here is a new twist to the all-time favourite game. Use your technical skills and knowledge to solve the clues and move ahead. But that’s not all. There’s more to this!
@@ -36,6 +39,7 @@ Akhil: 8556908693
 Shivam: 9878018564
 
 
+
 WEB DESIGN
 Description: (same as already there)
 
@@ -52,6 +56,7 @@ Rules:
 For further enquiry contact:
 Sidak: 9876588999
 Charanjit: 9814736348
+
 
 
 DAZZLE CODING
