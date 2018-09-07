@@ -26,6 +26,7 @@ TECH HUNT
 Description: Do you like treasure hunts? Here is a new twist to the all-time favourite game. Use your technical skills and knowledge to solve the clues and move ahead. But that’s not all. There’s more to this!
 
 Prerequisite: basic knowledge of prog languages
+requirements :- android phone
 
 Rules:
 1. Each goup should consist of 2 members at max
@@ -73,10 +74,11 @@ Description: To all the budding coders out there, we bring you a fun and crispy 
 Prerequisite: Coding Ability in atleast one of - C, C++, Java, Python.
 
 Rules
-1. It is an event of 2 members
-2. It will be a 2 hours event
-3. there will be surprise challenges for everyone.
-4. It is preferred that you bring your own laptops.
+1. In the event teams of 2 will be admitted.
+2. The event is of 2 hours.
+3. The problems and event format is a surprise so be ready to adapt.
+4. It is preferred that each team member brings his/her own laptops(2 per team).
+   Facility of Desktops on the spot is subject to availability. // change
 5. In case of any dispute the decision of judges would be final.
 
 For further enquiry contact:
@@ -96,8 +98,9 @@ Rules:
 3. Use of photoshop or any other designing software is allowed.
 4. Softwares to be provided: Adobe XD, Adobe Photoshop and related resources.
 5. Internet usage is not allowed, all required resources will be provided beforehand.
-6. UI designs will be judged on their appearance, creativity and the practicality. Also it should be strictly relevant with the theme.
+6. UI designs will be judged on their appearance, creativity and the practicality. The UX of the designed app must be ideal for a general user. The theme should be strictly relevant with the theme.
 7. In case of any dispute the decision of judges will be final.
+8. Details of the criteria of judgement shall be made available before the event.
 
 For further enquiry contact:
 Daksh: 9872664157
