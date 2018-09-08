@@ -145,14 +145,14 @@ INSTITUTES
       Address:      Sector 34
       Pitch Point:  
       Interested:   
-      Progress:   
+      Progress:     meeting on monday
 
 
   3.  Name:         Infowiz
       Address:      Sector 34
       Pitch Point:  
       Interested:   
-      Progress:   
+      Progress:     send proposal
 
   4.  Name:         SNM
       Address:      Sector 37
@@ -214,10 +214,23 @@ INSTITUTES
       Interested:   
       Progress:
       
+ 14.  Name:         Orion League IELTS
+      Address:      Sector 34
+      Pitch Point:  
+      Interested:   
+      Progress:     Not interested      
       
+ 15.  Name:         Gate Forums
+      Address:      Sector 34
+      Pitch Point:  
+      Interested:   seminar
+      Progress:     Proposal
 
-
-
+ 16.  Name:         Engineering Careers Group
+      Address:      Sector 34
+      Pitch Point:  
+      Interested:   seminar and database
+      Progress:     meeting on monday
 
 
 
