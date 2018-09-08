@@ -95,7 +95,7 @@ START-UPS
       Address:      SCO 115, Sector 34 A, Chandigarh, 07347405486
       Pitch Point:  
       Interested:   
-      Progress:
+      Progress:     Not interested
  
  17.  Name:         Webtech Learning
       Address:      SCO 54-55, 3rd Floor, Sector 34-A, Chandigarh, 09878375376
@@ -232,6 +232,11 @@ INSTITUTES
       Interested:   seminar and database
       Progress:     meeting on monday
 
+ 16.  Name:         Arena (web design)
+      Address:      Sector 34
+      Pitch Point:  
+      Interested:   
+      Progress:     not intersted
 
 
 
