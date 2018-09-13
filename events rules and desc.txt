@@ -5,8 +5,8 @@ Description: Rack your brains hard as we bring you "Chaos" an open online theme 
 Rules:
 1. Since Hackathon will be a team event, you can have minimum 3 and at most 4 members in your team.
 2. You can either invite your friends to form a team or you can request other teams to add you as a member.
-3. The hackathon will commence from Oct 11, 2018, 12:00 AM
-4. Submit your project before or on the last day i.e. October 13, 2018, 11:59 PM of the contest for it to be considered.
+3. The hackathon will commence from Oct 9, 2018, 12:00 AM
+4. Submit your project before or on the last day i.e. October 13, 2018, 11:55 PM of the contest for it to be considered.
 5. It's an online hackathon, you can participate from anywhere.
 6. There are 4 themes of the hackathon.
 7. Once the hackathon starts, you will get an option to submit your hack. If you send more than one entry, only the last entry will be considered
