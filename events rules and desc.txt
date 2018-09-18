@@ -59,6 +59,43 @@ Rules:
 7. You'll be judged on your innovation and creativity. Also it should be strictly relevant with the theme
 8. In case of any dispute the decision of judges will be final.
 
+
+### Schedule
+12th October, 2018
+1:30pm to 4pm
+2 hours dedicated coding session
+
+### Requirements
+Laptops are welcome, but PC will be provided
+Normal text editor with basic html support
+Modern Web Browser (NOT Internet Explorer, this is the 21st Century)
+Pen and Paper as per need.
+Bootstrap and Jquery files downloaded and accessible offline
+Participants will be in teams of 2 only.
+Participants will require a catchy team name
+
+### Flow
+Please be punctual and on time, no extra time will be given to any contestant.
+We will start at 1;30pm sharp with an introduction
+Basic problem statement will be released
+All particulars will be announced by 2pm max.
+After establishing that all contestants have been settled we will start the timer at exactly 2pm till 4pm
+Contestants are not allowed to use the internet for obvious reasons
+Any queries can be addressed by the incharges present during the event.
+Everyone has to save their work in a separate folder on the desktop including all resource files and external frameworks, and rename it as their team name.
+
+### Conclusion
+Time will stop at 4pm sharp
+Every organising member present will do a final countdown from 10 to 0
+Every contestant will be asked to move away from the keyboard
+ Organising members will collect data folders from each contestant’s computer
+This will be followed by a small presentations
+The results will be announced
+3 winners, 1st 2nd 3rd.
+Event finishes
+
+
+
 For further enquiry contact:
 Sidak: 9876588999
 Charanjit: 9814736348
