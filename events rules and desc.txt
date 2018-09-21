@@ -1,8 +1,8 @@
 
-HACKATHON
+## HACKATHON
 Description: Rack your brains hard as we bring you "Chaos" an open online theme based Hackathon. It's a shout-out to all the tech enthusiasts in every field, be it app development or full stack web, software development or a game developer. Prizes and rewards worth Rupees 1 lakh
 
-Rules:
+### Rules:
 1. Since Hackathon will be a team event, you can have minimum 3 and at most 4 members in your team.
 2. You can either invite your friends to form a team or you can request other teams to add you as a member.
 3. The hackathon will commence from Oct 9, 2018, 12:00 AM
@@ -22,13 +22,18 @@ Co-Head: 9592972225
 
 
 
-TECH HUNT
+## TECH HUNT
 Description: Do you like treasure hunts? Here is a new twist to the all-time favourite game. Use your technical skills and knowledge to solve the clues and move ahead. But that’s not all. There’s more to this!
 
 Prerequisite: basic knowledge of prog languages
 requirements :- android phone
 
-Rules:
+### Schedule
+12th October, 2018
+11:00am to 12:30pm
+Get your minds racing towards the prize
+
+### Rules:
 1. Each goup should consist of 2 members at max
 2. If participants are outnumbered, 1 or 2 qualifier rounds will be held to start the treasure hunt. 
 3. Time limit is 60 minutes.
@@ -46,10 +51,10 @@ Co-Head: 9592972225
 
 
 
-WEB DESIGN
+## WEB DESIGN
 Description: (same as already there)
 
-Rules:
+### Rules:
 1. the web designing will be a team based event so you can have maximum 2 members in your team
 2. It'll be a 3 hours event, with 2 hours dedicated coding time.
 3. Use of photoshop or any other designing software is allowed, only for UI design.
@@ -104,19 +109,24 @@ Co-Head: 9592972225
 
 
 
-DAZZLE CODING
+## DAZZLE CODING
+
+### Schedule
+11th October, 2018
+2pm to 4pm
+2 hours to Dazzle us
+
 Description: To all the budding coders out there, we bring you a fun and crispy coding event 
 "Dazzle Coding" with a lot's of surprises, so hone up your coding skills and be ready to Adapt to Change
 
 Prerequisite: Coding Ability in atleast one of - C, C++, Java, Python.
 
-Rules
+### Rules
 1. In the event teams of 2 will be admitted.
-2. The event is of 2 hours.
-3. The problems and event format is a surprise so be ready to adapt.
-4. It is preferred that each team member brings his/her own laptops(2 per team).
+2. The problems and event format is a surprise so be ready to adapt.
+3. It is preferred that each team member brings his/her own laptops(2 per team).
    Facility of Desktops on the spot is subject to availability. // change
-5. In case of any dispute the decision of judges would be final.
+4. In case of any dispute the decision of judges would be final.
 
 For further enquiry contact:
 Abhinav: 9888651900
@@ -126,10 +136,16 @@ Co-Head: 9592972225
 
 
 
-VIVIFY
+## VIVIFY
+
+### Schedule
+11th October, 2018
+11:30pm to 1pm
+1.5 hours of design and creativity
+
 Description: Ever looked at a mobile app and thought "I could make this look better" ? Now is your chance! Come let out your creativity on a virtual art-board and design the most beautiful app with a UI and UX that is as good-looking as it is practical.
 
-Rules:
+### Rules:
 1. Vivify is an individual event with everyone for themselves.
 2. A 2 hours event focussed on Mobile-app UI design.
 3. Use of photoshop or any other designing software is allowed.
