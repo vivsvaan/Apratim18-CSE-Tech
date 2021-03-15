@@ -2,7 +2,7 @@
 ## HACKATHON
 Description: Rack your brains hard as we bring you "Chaos" an open online theme based Hackathon. It's a shout-out to all the tech enthusiasts in every field, be it app development or full stack web, software development or a game developer. Prizes and rewards worth Rupees 1 lakh
 
-### Rules:
+#### Rules:
 1. Since Hackathon will be a team event, you can have minimum 3 and at most 4 members in your team.
 2. You can either invite your friends to form a team or you can request other teams to add you as a member.
 3. The hackathon will commence from Oct 9, 2018, 12:00 AM
@@ -28,12 +28,12 @@ Description: Do you like treasure hunts? Here is a new twist to the all-time fav
 Prerequisite: basic knowledge of prog languages
 requirements :- android phone
 
-### Schedule
+#### Schedule
 12th October, 2018
 11:00am to 12:30pm
 Get your minds racing towards the prize
 
-### Rules:
+#### Rules:
 1. Each goup should consist of 2 members at max
 2. If participants are outnumbered, 1 or 2 qualifier rounds will be held to start the treasure hunt. 
 3. Time limit is 60 minutes.
@@ -54,7 +54,7 @@ Co-Head: 9592972225
 ## WEB DESIGN
 Description: (same as already there)
 
-### Rules:
+#### Rules:
 1. the web designing will be a team based event so you can have maximum 2 members in your team
 2. It'll be a 3 hours event, with 2 hours dedicated coding time.
 3. Use of photoshop or any other designing software is allowed, only for UI design.
@@ -65,12 +65,12 @@ Description: (same as already there)
 8. In case of any dispute the decision of judges will be final.
 
 
-### Schedule
+#### Schedule
 12th October, 2018
 1:30pm to 4pm
 2 hours dedicated coding session
 
-### Requirements
+#### Requirements
 Laptops are welcome, but PC will be provided
 Normal text editor with basic html support
 Modern Web Browser (NOT Internet Explorer, this is the 21st Century)
@@ -79,7 +79,7 @@ Bootstrap and Jquery files downloaded and accessible offline
 Participants will be in teams of 2 only.
 Participants will require a catchy team name
 
-### Flow
+#### Flow
 Please be punctual and on time, no extra time will be given to any contestant.
 We will start at 1;30pm sharp with an introduction
 Basic problem statement will be released
@@ -89,7 +89,7 @@ Contestants are not allowed to use the internet for obvious reasons
 Any queries can be addressed by the incharges present during the event.
 Everyone has to save their work in a separate folder on the desktop including all resource files and external frameworks, and rename it as their team name.
 
-### Conclusion
+#### Conclusion
 Time will stop at 4pm sharp
 Every organising member present will do a final countdown from 10 to 0
 Every contestant will be asked to move away from the keyboard
@@ -111,7 +111,7 @@ Co-Head: 9592972225
 
 ## DAZZLE CODING
 
-### Schedule
+#### Schedule
 11th October, 2018
 2pm to 4pm
 2 hours to Dazzle us
@@ -121,7 +121,7 @@ Description: To all the budding coders out there, we bring you a fun and crispy 
 
 Prerequisite: Coding Ability in atleast one of - C, C++, Java, Python.
 
-### Rules
+#### Rules
 1. In the event teams of 2 will be admitted.
 2. The problems and event format is a surprise so be ready to adapt.
 3. It is preferred that each team member brings his/her own laptops(2 per team).
@@ -138,14 +138,14 @@ Co-Head: 9592972225
 
 ## VIVIFY
 
-### Schedule
+#### Schedule
 11th October, 2018
 11:30pm to 1pm
 1.5 hours of design and creativity
 
 Description: Ever looked at a mobile app and thought "I could make this look better" ? Now is your chance! Come let out your creativity on a virtual art-board and design the most beautiful app with a UI and UX that is as good-looking as it is practical.
 
-### Rules:
+#### Rules:
 1. Vivify is an individual event with everyone for themselves.
 2. A 2 hours event focussed on Mobile-app UI design.
 3. Use of photoshop or any other designing software is allowed.
